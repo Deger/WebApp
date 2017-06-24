@@ -1,0 +1,6 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleDisplayName = "百度脑图";
+CFBundleGetInfoString = "百度脑图";
+CFBundleName = "百度脑图";
+NSHumanReadableCopyright = "Luofei";

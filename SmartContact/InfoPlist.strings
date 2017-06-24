@@ -1,0 +1,6 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleDisplayName = "锤子联系人";
+CFBundleGetInfoString = "锤子联系人";
+CFBundleName = "锤子联系人";
+NSHumanReadableCopyright = "Luofei";
